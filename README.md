@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About Me
 
 👋 Hi, I'm **Vivaswaan Sanghani**, a passionate IT professional with a strong foundation in software development, system analysis, and cloud-driven solutions.  
-🎓 I hold a Bachelor's degree in Science from the University of Technology Sydney Australia.  
+🎓 I hold a Bachelor's degree in Science from the University of Technology Sydney Australia and a Master's degree from AIHE.  
 💻 I specialise in building efficient web apps, automation tools, and scalable systems using modern technologies.  
 🧠 A quick learner with an analytical mindset, I thrive in environments that value adaptability, innovation, and collaboration.  
 🌐 I have been delivering cutting-edge web, mobile, and game development solutions for 5+ years.  

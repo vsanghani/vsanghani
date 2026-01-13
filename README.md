@@ -7,8 +7,7 @@
 🌐 I have been delivering cutting-edge web, mobile, and game development solutions for 5+ years.  
 🔐 With a growing interest in cybersecurity, I incorporate secure design principles in my development projects.  
 🇦🇺 Based in Australia, I'm always open to exciting opportunities in tech, whether it's software development, systems analysis, or cloud solutions.
-
-📄 You can check out my [CV here](Vivaswaan Ghanshyambhai Sanghani.pdf).  
+  
 
 ---
 

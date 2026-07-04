@@ -45,7 +45,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaswaan491)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/DragonJ21)  
 📧 Email: [sanghaniviv@gmail.com](mailto:sanghaniviv@gmail.com)
-🌐 Website: [https://vportfolio-amber.vercel.app](https://vportfolio-amber.vercel.app)
+🌐 Website: [https://vsanghani.site](https://vsanghani.site)
 
 ---
 
